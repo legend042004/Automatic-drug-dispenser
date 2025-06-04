@@ -1,0 +1,14 @@
+s_id,s_date,Category,Med_name,Quantity,unit_price,Patient_name,Dispenser_location,Doctor_name
+1,2025-01-09,unani,lohasava,5,45.0,xyz,swargate,om
+2,2025-01-30,unani,ayush 01,7,75.0,pqr,narhe,sai
+3,2025-02-12,ayurveda,ayush 01,4,75.0,mno,shivaji nagar,atharva
+4,2025-03-09,siddha,ayush 01,10,75.0,mno,shivaji nagar,sanskruti
+5,2025-04-21,ayurveda,ayush 02,15,140.0,xyz,swargate ,sanskruti 
+6,2025-04-10,unani,ayush 02,13,140.0,def,narhe,om 
+7,2025-03-07,siddha,ayush 02,8,140.0,def,narhe,atharva
+8,2025-02-27,siddha,ayush 03,9,105.0,xyz,shivaji nagar,sai
+9,2025-04-04,homeopathy,ayush 03,6,105.0,pqr,swargate ,sai
+10,2025-04-15,homeopathy,ayush 03,20,105.0,pqr,narhe,atharva
+11,2025-01-14,ayurveda,ayush 04,11,220.0,mno,swargate,om
+12,2025-03-04,homeopathy,ayush 04,15,220.0,def,shivaji nagar,om
+13,2025-02-14,ayurveda,ayush 04,10,220.0,abc,swargate,sanskruti
